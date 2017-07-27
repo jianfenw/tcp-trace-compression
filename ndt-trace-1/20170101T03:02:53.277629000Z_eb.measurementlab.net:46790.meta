@@ -1,0 +1,20 @@
+Date/Time: 20170101T03:02:53.277629000Z
+c2s_snaplog file: 20170101T03:02:53.277629000Z_eb.measurementlab.net:54086.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T03:02:53.277629000Z_45.56.98.222.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T03:02:53.277629000Z_eb.measurementlab.net:52202.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T03:02:53.277629000Z_45.56.98.222.s2c_ndttrace.gz
+cputime file: 20170101T03:02:53.277629000Z_eb.measurementlab.net:46790.cputime.gz
+web values file: 
+server IP address: 
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 45.56.98.222
+client hostname: eb.measurementlab.net
+client OS name: CLIWebsockets
+client_browser name: 
+client_application name: 
+Summary data: 0,29,1182,11,5063,22,28,2,71,0,1328,18,39,136192,28992,10624,0,10989430,445308,92078,0,3,3,2656,446,136192,100,0,0,0,1,6,2,6,10,2,71,193,7,22,4,0,259,0,-1,-1,0,4,0,-1,1328,10624,5
+ * Additional data:
+client.os.name: CLIWebsockets
+tls: false
+websockets: true

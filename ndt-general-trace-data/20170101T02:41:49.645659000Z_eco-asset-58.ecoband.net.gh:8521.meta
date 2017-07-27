@@ -1,0 +1,20 @@
+Date/Time: 20170101T02:41:49.645659000Z
+c2s_snaplog file: 20170101T02:41:49.645659000Z_eco-asset-58.ecoband.net.gh:8494.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T02:41:49.645659000Z_196.44.101.58.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T02:41:49.645659000Z_eco-asset-58.ecoband.net.gh:8522.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T02:41:49.645659000Z_196.44.101.58.s2c_ndttrace.gz
+cputime file: 20170101T02:41:49.645659000Z_eco-asset-58.ecoband.net.gh:8521.cputime.gz
+web values file: 
+server IP address: 
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 196.44.101.58
+client hostname: eco-asset-58.ecoband.net.gh
+client OS name: NDTjs
+client_browser name: 
+client_application name: 
+Summary data: 0,4275,5527,0,2032586,4442,0,0,4657,0,1240,0,4442,262144,739584,267840,9412008,796920,528479,5860841,1,9,9,0,640,262144,10,0,0,0,0,3,3,3,3,0,4657,5,7,22,0,0,596,0,-1,-1,0,215,0,-1,4960,6200,1
+ * Additional data:
+client.os.name: NDTjs
+tls: true
+websockets: true

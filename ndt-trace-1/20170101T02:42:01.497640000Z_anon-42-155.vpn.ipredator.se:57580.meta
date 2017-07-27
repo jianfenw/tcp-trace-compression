@@ -1,0 +1,19 @@
+Date/Time: 20170101T02:42:01.497640000Z
+c2s_snaplog file: 20170101T02:42:01.497640000Z_anon-42-155.vpn.ipredator.se:57594.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T02:42:01.497640000Z_46.246.42.155.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T02:42:01.497640000Z_anon-42-155.vpn.ipredator.se:57605.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T02:42:01.497640000Z_46.246.42.155.s2c_ndttrace.gz
+cputime file: 20170101T02:42:01.497640000Z_anon-42-155.vpn.ipredator.se:57580.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 46.246.42.155
+client hostname: anon-42-155.vpn.ipredator.se
+client OS name: 
+client_browser name: 
+client_application name: 
+Summary data: 12619,19701,2432,0,894189,3259,0,0,22878,0,1087,5,3263,1048576,3041456,1052216,5162637,4935830,500844,25596407,3,21,19,0,475,1047488,100,0,0,0,0,6,6,8,8,0,22878,266,7,22,0,0,371,0,-1,-1,0,964,0,-1,-1,-1,-1
+ * Additional data:
+tls: false
+websockets: false

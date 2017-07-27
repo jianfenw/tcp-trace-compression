@@ -1,0 +1,24 @@
+Date/Time: 20170101T18:41:39.450788000Z
+c2s_snaplog file: 20170101T18:41:39.450788000Z_177-191-139-251.xd-dynamic.algarnetsuper.com.br:28530.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T18:41:39.450788000Z_177.191.139.251.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T18:41:39.450788000Z_177-191-139-251.xd-dynamic.algarnetsuper.com.br:28535.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T18:41:39.450788000Z_177.191.139.251.s2c_ndttrace.gz
+cputime file: 20170101T18:41:39.450788000Z_177-191-139-251.xd-dynamic.algarnetsuper.com.br:28528.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 177.191.139.251
+client hostname: 177-191-139-251.xd-dynamic.algarnetsuper.com.br
+client OS name: Windows
+client_browser name: BTWebClient/7990
+client_application name: 
+Summary data: 630,1311,490,0,269562,521,84,1,1465,0,1340,163,768,423936,706680,281400,1632581,8682332,1058874,1991276,2,13,11,140700,807,421120,0,0,0,0,1,2,2,2,3,1,1465,424,7,22,142,0,988,1,-1,-1,0,262,0,-1,69680,281400,1
+ * Additional data:
+client.utorrent.version: 43086
+client.version: 3.3.13
+client.kernel.version: 10.0
+client.browser.name: BTWebClient/7990
+client.os.name: Windows
+tls: false
+websockets: false

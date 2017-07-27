@@ -1,0 +1,20 @@
+Date/Time: 20170101T11:10:14.826915000Z
+c2s_snaplog file: 20170101T11:10:14.826915000Z_1-20-255-143.provedortcnet.com.br:24115.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T11:10:14.826915000Z_143.255.20.1.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T11:10:14.826915000Z_1-20-255-143.provedortcnet.com.br:24125.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T11:10:14.826915000Z_143.255.20.1.s2c_ndttrace.gz
+cputime file: 20170101T11:10:14.826915000Z_1-20-255-143.provedortcnet.com.br:24111.cputime.gz
+web values file: 
+server IP address: 
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 143.255.20.1
+client hostname: 1-20-255-143.provedortcnet.com.br
+client OS name: NDTjs
+client_browser name: 
+client_application name: 
+Summary data: 0,776,769,0,116413,363,2,1,813,0,1340,47,411,945920,192072,71020,571106,9619209,1445099,1099650,2,9,7,33500,524,921856,100,0,0,0,1,3,3,6,4,1,813,313,7,22,278,0,379,2,-1,-1,0,73,0,-1,4020,71020,1
+ * Additional data:
+client.os.name: NDTjs
+tls: false
+websockets: true

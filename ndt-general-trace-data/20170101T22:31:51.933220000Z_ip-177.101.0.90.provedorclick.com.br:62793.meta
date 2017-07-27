@@ -1,0 +1,24 @@
+Date/Time: 20170101T22:31:51.933220000Z
+c2s_snaplog file: 20170101T22:31:51.933220000Z_ip-177.101.0.90.provedorclick.com.br:62825.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T22:31:51.933220000Z_177.101.0.90.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T22:31:51.933220000Z_ip-177.101.0.90.provedorclick.com.br:62850.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T22:31:51.933220000Z_177.101.0.90.s2c_ndttrace.gz
+cputime file: 20170101T22:31:51.933220000Z_ip-177.101.0.90.provedorclick.com.br:62793.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 177.101.0.90
+client hostname: ip-177.101.0.90.provedorclick.com.br
+client OS name: Windows
+client_browser name: BTWebClient/3490
+client_application name: 
+Summary data: 367,131,756,1,14496,48,6,3,128,0,1340,14,66,66560,25368,10720,0,10104696,455245,172768,0,9,9,12060,501,66560,100,0,0,0,1,2,2,6,2,3,128,287,7,22,41,0,398,0,-1,-1,0,7,0,-1,1340,10720,3
+ * Additional data:
+client.utorrent.version: 43085
+client.version: 3.3.13
+client.kernel.version: 10.0
+client.browser.name: BTWebClient/3490
+client.os.name: Windows
+tls: false
+websockets: false

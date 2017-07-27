@@ -1,0 +1,24 @@
+Date/Time: 20170101T20:11:27.428080000Z
+c2s_snaplog file: 20170101T20:11:27.428080000Z_41.83.25.164:58690.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T20:11:27.428080000Z_41.83.25.164.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T20:11:27.428080000Z_41.83.25.164:58692.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T20:11:27.428080000Z_41.83.25.164.s2c_ndttrace.gz
+cputime file: 20170101T20:11:27.428080000Z_41.83.25.164:58687.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 41.83.25.164
+client hostname: No FQDN name
+client OS name: Windows
+client_browser name: BTWebClient/3490
+client_application name: 
+Summary data: 348,419,45,0,174790,202,0,0,439,0,1340,0,202,68000,195696,72360,8308158,2422961,657142,595024,4,8,6,0,1407,49040,100,0,0,0,0,2,2,2,2,0,439,283,7,22,0,0,1252,0,-1,-1,0,51,0,-1,-1,-1,-1
+ * Additional data:
+client.utorrent.version: 43085
+client.version: 3.3.13
+client.kernel.version: 6.1
+client.browser.name: BTWebClient/3490
+client.os.name: Windows
+tls: false
+websockets: false

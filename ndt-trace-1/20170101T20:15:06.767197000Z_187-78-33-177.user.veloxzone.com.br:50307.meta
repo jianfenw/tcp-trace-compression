@@ -1,0 +1,24 @@
+Date/Time: 20170101T20:15:06.767197000Z
+c2s_snaplog file: 20170101T20:15:06.767197000Z_187-78-33-177.user.veloxzone.com.br:50319.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T20:15:06.767197000Z_187.78.33.177.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T20:15:06.767197000Z_187-78-33-177.user.veloxzone.com.br:50332.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T20:15:06.767197000Z_187.78.33.177.s2c_ndttrace.gz
+cputime file: 20170101T20:15:06.767197000Z_187-78-33-177.user.veloxzone.com.br:50307.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 187.78.33.177
+client hostname: 187-78-33-177.user.veloxzone.com.br
+client OS name: Windows
+client_browser name: BTWebClient/3490
+client_application name: 
+Summary data: 311,1180,1534,0,174317,404,20,1,1171,0,1340,106,530,1591040,434880,168840,457267,9849706,891742,1588336,1,13,12,84420,620,1358592,0,0,0,0,1,3,3,8,6,1,1171,384,7,22,230,0,544,3,-1,-1,0,145,0,-1,61640,164820,1
+ * Additional data:
+client.utorrent.version: 43085
+client.version: 3.3.13
+client.kernel.version: 10.0
+client.browser.name: BTWebClient/3490
+client.os.name: Windows
+tls: false
+websockets: false

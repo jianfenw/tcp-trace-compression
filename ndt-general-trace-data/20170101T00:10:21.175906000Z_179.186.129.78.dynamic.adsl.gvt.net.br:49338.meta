@@ -1,0 +1,19 @@
+Date/Time: 20170101T00:10:21.175906000Z
+c2s_snaplog file: 20170101T00:10:21.175906000Z_179.186.129.78.dynamic.adsl.gvt.net.br:49343.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T00:10:21.175906000Z_179.186.129.78.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T00:10:21.175906000Z_179.186.129.78.dynamic.adsl.gvt.net.br:49345.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T00:10:21.175906000Z_179.186.129.78.s2c_ndttrace.gz
+cputime file: 20170101T00:10:21.175906000Z_179.186.129.78.dynamic.adsl.gvt.net.br:49338.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 179.186.129.78
+client hostname: 179.186.129.78.dynamic.adsl.gvt.net.br
+client OS name: 
+client_browser name: 
+client_application name: 
+Summary data: 461,4972,379,0,704430,2243,0,0,4730,0,1340,5,2248,261360,721176,266660,6841921,3212724,1031624,6431060,2,13,12,0,513,261360,10,0,0,0,0,2,2,3,4,0,4730,307,7,22,0,0,508,1,-1,-1,0,197,0,-1,-1,-1,-1
+ * Additional data:
+tls: false
+websockets: false

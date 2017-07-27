@@ -1,0 +1,19 @@
+Date/Time: 20170101T18:00:25.493381000Z
+c2s_snaplog file: 20170101T18:00:25.493381000Z_min-logbase25.afribonemali.net:60745.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T18:00:25.493381000Z_196.200.61.25.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T18:00:25.493381000Z_41.73.102.130:60746.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T18:00:25.493381000Z_41.73.102.130.s2c_ndttrace.gz
+cputime file: 20170101T18:00:25.493381000Z_41.73.102.130:60744.cputime.gz
+web values file: 
+server IP address: 
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 41.73.102.130
+client hostname: No FQDN name
+client OS name: 
+client_browser name: 
+client_application name: 
+Summary data: 0,323,29195,3,39415,188,61,3,374,0,1328,54,241,131328,97848,37184,0,10352486,481089,506256,0,6,6,18592,412,131072,100,0,0,0,1,5,5,8,6,3,374,180,7,22,124,0,295,0,-1,-1,0,50,0,-1,3984,37184,6
+ * Additional data:
+tls: false
+websockets: false

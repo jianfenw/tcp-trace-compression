@@ -1,0 +1,20 @@
+Date/Time: 20170101T22:39:19.843373000Z
+c2s_snaplog file: 20170101T22:39:19.843373000Z_154.70.82.36:53039.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T22:39:19.843373000Z_154.70.82.36.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T22:39:19.843373000Z_154.70.82.36:34734.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T22:39:19.843373000Z_154.70.82.36.s2c_ndttrace.gz
+cputime file: 20170101T22:39:19.843373000Z_154.70.82.36:51348.cputime.gz
+web values file: 
+server IP address: 
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 154.70.82.36
+client hostname: No FQDN name
+client OS name: NDTjs
+client_browser name: 
+client_application name: 
+Summary data: 0,439,514,1,78179,269,27,4,462,0,1328,93,361,521984,115968,59760,0,10038027,993917,624510,0,6,6,29216,905,520192,0,0,0,0,1,2,2,2,2,5,462,218,7,22,173,0,709,0,-1,-1,0,67,0,-1,5312,59760,4
+ * Additional data:
+client.os.name: NDTjs
+tls: false
+websockets: true

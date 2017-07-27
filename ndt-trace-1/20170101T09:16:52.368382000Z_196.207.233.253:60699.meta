@@ -1,0 +1,24 @@
+Date/Time: 20170101T09:16:52.368382000Z
+c2s_snaplog file: 20170101T09:16:52.368382000Z_196.207.233.253:55750.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T09:16:52.368382000Z_196.207.233.253.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T09:16:52.368382000Z_196.207.233.253:47865.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T09:16:52.368382000Z_196.207.233.253.s2c_ndttrace.gz
+cputime file: 20170101T09:16:52.368382000Z_196.207.233.253:60699.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 196.207.233.253
+client hostname: No FQDN name
+client OS name: Linux
+client_browser name: - (web100clt)
+client_application name: cli
+Summary data: 645,4184,393,0,444895,1870,30,1,3872,0,1328,218,2087,526080,597960,247008,0,10027937,460794,5264512,0,9,9,123504,439,526080,0,0,0,0,1,2,2,3,3,1,3872,231,7,22,1608,0,385,0,-1,-1,0,231,0,-1,61088,247008,1
+ * Additional data:
+client.version: 3.7.0.2
+client.kernel.version: 3.14.0
+client.browser.name: - (web100clt)
+client.os.name: Linux
+client.application: cli
+tls: false
+websockets: false

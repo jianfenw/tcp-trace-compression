@@ -1,0 +1,24 @@
+Date/Time: 20170101T21:15:45.637806000Z
+c2s_snaplog file: 20170101T21:15:45.637806000Z_host-84-11-44-90.customer.teleport-iabg.de:53945.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T21:15:45.637806000Z_84.11.44.90.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T21:15:45.637806000Z_host-84-11-44-90.customer.teleport-iabg.de:52657.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T21:15:45.637806000Z_84.11.44.90.s2c_ndttrace.gz
+cputime file: 20170101T21:15:45.637806000Z_host-84-11-44-90.customer.teleport-iabg.de:42702.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 84.11.44.90
+client hostname: host-84-11-44-90.customer.teleport-iabg.de
+client OS name: Linux
+client_browser name: - (web100clt)
+client_application name: cli
+Summary data: 496,4169,1185,0,1177931,1768,0,0,3735,0,1328,0,1767,528640,1456848,533856,4288281,5827001,532258,5076912,1,12,12,0,877,528640,10,0,0,0,0,3,3,8,3,0,3735,645,7,22,0,0,766,0,-1,-1,0,399,0,-1,-1,-1,-1
+ * Additional data:
+client.version: 3.7.0.2
+client.kernel.version: 3.14.0
+client.browser.name: - (web100clt)
+client.os.name: Linux
+client.application: cli
+tls: false
+websockets: false

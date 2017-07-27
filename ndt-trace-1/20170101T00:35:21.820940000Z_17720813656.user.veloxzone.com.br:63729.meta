@@ -1,0 +1,19 @@
+Date/Time: 20170101T00:35:21.820940000Z
+c2s_snaplog file: 20170101T00:35:21.820940000Z_17720813656.user.veloxzone.com.br:63731.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T00:35:21.820940000Z_177.208.136.56.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T00:35:21.820940000Z_17720813656.user.veloxzone.com.br:63732.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T00:35:21.820940000Z_177.208.136.56.s2c_ndttrace.gz
+cputime file: 20170101T00:35:21.820940000Z_17720813656.user.veloxzone.com.br:63729.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 177.208.136.56
+client hostname: 17720813656.user.veloxzone.com.br
+client OS name: 
+client_browser name: 
+client_application name: 
+Summary data: 889,1468,233,0,632291,671,0,0,1567,0,1340,0,671,306176,840768,310880,5758170,4433668,810337,2128996,3,13,11,0,1487,306176,100,0,0,0,0,2,2,2,3,0,1567,324,7,22,0,0,1289,0,-1,-1,0,229,0,-1,-1,-1,-1
+ * Additional data:
+tls: false
+websockets: false

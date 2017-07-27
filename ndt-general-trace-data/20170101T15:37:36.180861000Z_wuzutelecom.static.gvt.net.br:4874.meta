@@ -1,0 +1,24 @@
+Date/Time: 20170101T15:37:36.180861000Z
+c2s_snaplog file: 20170101T15:37:36.180861000Z_wuzutelecom.static.gvt.net.br:4877.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T15:37:36.180861000Z_179.184.190.34.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T15:37:36.180861000Z_wuzutelecom.static.gvt.net.br:4883.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T15:37:36.180861000Z_179.184.190.34.s2c_ndttrace.gz
+cputime file: 20170101T15:37:36.180861000Z_wuzutelecom.static.gvt.net.br:4874.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 179.184.190.34
+client hostname: wuzutelecom.static.gvt.net.br
+client OS name: Windows
+client_browser name: BTWebClient/3490
+client_application name: 
+Summary data: 274,1285,890,0,228201,405,95,1,1530,0,1340,275,754,633600,1040088,384580,963727,9884016,888457,2074836,30,47,18,188940,1054,286208,0,0,0,0,1,2,2,8,10,1,1530,350,7,22,36,0,1060,2,-1,-1,0,358,0,-1,91120,383240,1
+ * Additional data:
+client.utorrent.version: 43085
+client.version: 3.3.13
+client.kernel.version: 10.0
+client.browser.name: BTWebClient/3490
+client.os.name: Windows
+tls: false
+websockets: false

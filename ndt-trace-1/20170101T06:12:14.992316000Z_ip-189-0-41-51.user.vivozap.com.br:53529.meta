@@ -1,0 +1,24 @@
+Date/Time: 20170101T06:12:14.992316000Z
+c2s_snaplog file: 20170101T06:12:14.992316000Z_ip-189-0-41-51.user.vivozap.com.br:53532.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T06:12:14.992316000Z_189.0.41.51.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T06:12:14.992316000Z_ip-189-0-41-51.user.vivozap.com.br:53533.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T06:12:14.992316000Z_189.0.41.51.s2c_ndttrace.gz
+cputime file: 20170101T06:12:14.992316000Z_ip-189-0-41-51.user.vivozap.com.br:53529.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 189.0.41.51
+client hostname: ip-189-0-41-51.user.vivozap.com.br
+client OS name: Windows
+client_browser name: BTWebClient/3490
+client_application name: 
+Summary data: 945,1468,211,0,274076,580,61,1,1498,0,1340,127,768,365824,514608,239860,1462426,8438315,770125,2035540,3,12,9,120600,729,364288,0,0,0,0,1,2,2,2,3,1,1498,384,7,22,259,0,666,0,-1,-1,0,223,0,-1,60300,239860,1
+ * Additional data:
+client.utorrent.version: 43085
+client.version: 3.3.13
+client.kernel.version: 10.0
+client.browser.name: BTWebClient/3490
+client.os.name: Windows
+tls: false
+websockets: false

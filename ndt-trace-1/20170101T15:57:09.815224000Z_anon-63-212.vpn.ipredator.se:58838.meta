@@ -1,0 +1,24 @@
+Date/Time: 20170101T15:57:09.815224000Z
+c2s_snaplog file: 20170101T15:57:09.815224000Z_anon-63-212.vpn.ipredator.se:58841.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T15:57:09.815224000Z_46.246.63.212.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T15:57:09.815224000Z_anon-63-212.vpn.ipredator.se:58842.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T15:57:09.815224000Z_46.246.63.212.s2c_ndttrace.gz
+cputime file: 20170101T15:57:09.815224000Z_anon-63-212.vpn.ipredator.se:58838.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 46.246.63.212
+client hostname: anon-63-212.vpn.ipredator.se
+client OS name: Windows
+client_browser name: BTWebClient/3210
+client_application name: 
+Summary data: 610,498,6399,0,40295,259,8,7,584,0,1099,77,344,65792,53414,20881,0,10269031,511250,652177,0,12,12,9891,358,65792,100,0,0,0,1,6,6,2,2,7,584,140,7,22,238,0,194,0,-1,-1,0,20,0,-1,2198,20881,6
+ * Additional data:
+client.utorrent.version: 28086
+client.version: 3.3.13
+client.kernel.version: 6.2
+client.browser.name: BTWebClient/3210
+client.os.name: Windows
+tls: false
+websockets: false

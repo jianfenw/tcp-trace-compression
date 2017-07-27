@@ -1,0 +1,19 @@
+Date/Time: 20170101T13:52:08.789700000Z
+c2s_snaplog file: 20170101T13:52:08.789700000Z_bl3.41.74.135.73.dynamic.dsl.cvmultimedia.cv:50966.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T13:52:08.789700000Z_41.74.135.73.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T13:52:08.789700000Z_bl3.41.74.135.73.dynamic.dsl.cvmultimedia.cv:58933.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T13:52:08.789700000Z_41.74.135.73.s2c_ndttrace.gz
+cputime file: 20170101T13:52:08.789700000Z_bl3.41.74.135.73.dynamic.dsl.cvmultimedia.cv:59918.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 41.74.135.73
+client hostname: bl3.41.74.135.73.dynamic.dsl.cvmultimedia.cv
+client OS name: 
+client_browser name: 
+client_application name: 
+Summary data: 440,5346,262,0,733980,2090,221,1,5287,0,1340,407,2708,1646336,1612680,687420,357613,9713674,1046514,7187312,8,20,12,343040,542,1390848,0,0,0,0,1,2,10,3,4,1,5287,336,7,22,1410,0,439,0,-1,-1,0,652,0,-1,154100,687420,1
+ * Additional data:
+tls: false
+websockets: false

@@ -1,0 +1,24 @@
+Date/Time: 20170101T17:21:44.655172000Z
+c2s_snaplog file: 20170101T17:21:44.655172000Z_179.182.221.250.dynamic.adsl.gvt.net.br:51943.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T17:21:44.655172000Z_179.182.221.250.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T17:21:44.655172000Z_179.182.221.250.dynamic.adsl.gvt.net.br:51955.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T17:21:44.655172000Z_179.182.221.250.s2c_ndttrace.gz
+cputime file: 20170101T17:21:44.655172000Z_179.182.221.250.dynamic.adsl.gvt.net.br:51939.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 179.182.221.250
+client hostname: 179.182.221.250.dynamic.adsl.gvt.net.br
+client OS name: Windows
+client_browser name: BTWebClient/7990
+client_application name: 
+Summary data: 337,1389,764,0,192523,512,21,2,1424,0,1340,240,765,261360,721176,266660,1349176,9198541,1159974,1933976,3,16,13,132660,610,198380,0,0,0,0,0,3,3,8,10,2,1424,312,7,22,91,0,624,5,-1,-1,0,320,0,-1,5360,266660,3
+ * Additional data:
+client.utorrent.version: 42607
+client.version: 3.3.13
+client.kernel.version: 6.1
+client.browser.name: BTWebClient/7990
+client.os.name: Windows
+tls: false
+websockets: false

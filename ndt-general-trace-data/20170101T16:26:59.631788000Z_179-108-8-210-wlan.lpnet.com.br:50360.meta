@@ -1,0 +1,24 @@
+Date/Time: 20170101T16:26:59.631788000Z
+c2s_snaplog file: 20170101T16:26:59.631788000Z_179-108-8-210-wlan.lpnet.com.br:50362.c2s_snaplog.gz
+c2s_ndttrace file: 20170101T16:26:59.631788000Z_179.108.8.210.c2s_ndttrace.gz
+s2c_snaplog file: 20170101T16:26:59.631788000Z_179-108-8-210-wlan.lpnet.com.br:50364.s2c_snaplog.gz
+s2c_ndttrace file: 20170101T16:26:59.631788000Z_179.108.8.210.s2c_ndttrace.gz
+cputime file: 20170101T16:26:59.631788000Z_179-108-8-210-wlan.lpnet.com.br:50360.cputime.gz
+web values file: 
+server IP address: 196.49.14.203
+server hostname: mlab1.acc02.measurement-lab.org
+server kernel version: 2.6.32-131.vs230.web10027.xidmask.2.mlab.i686
+client IP address: 179.108.8.210
+client hostname: 179-108-8-210-wlan.lpnet.com.br
+client OS name: Windows
+client_browser name: BTWebClient/3490
+client_application name: 
+Summary data: 416,1075,806,0,190323,398,88,2,1183,0,1340,115,601,261360,721176,266660,1567745,8632881,877643,1605500,3,15,12,132660,1090,261360,0,0,0,0,0,2,2,2,3,2,1183,323,7,22,60,1,1188,1,-1,-1,0,261,0,-1,20100,266660,2
+ * Additional data:
+client.utorrent.version: 43085
+client.version: 3.3.13
+client.kernel.version: 6.1
+client.browser.name: BTWebClient/3490
+client.os.name: Windows
+tls: false
+websockets: false
